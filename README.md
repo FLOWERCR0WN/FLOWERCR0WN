@@ -5,7 +5,6 @@
  <div align=”center”>
 
    〈 [strawpage](https://basilsalbum.straw.page/) 
-   <br>
  ☆ [atabook](https://basilsalbum.atabook.org/) 〉
 
 </div>
