@@ -2,10 +2,12 @@
 
 ![](https://github.com/FLOWERCR0WN/FLOWERCR0WN/blob/8168807e58aaf147f0675518e34173f72dc295c9/Untitled275_20250806164011.png) 
 
- <p align=”center”>
+ <div align=”center”>
 
-   〈 [strawpage](https://basilsalbum.straw.page/) ☆ [atabook](https://basilsalbum.atabook.org/) 〉
+   〈 [strawpage](https://basilsalbum.straw.page/) 
+   <br>
+ ☆ [atabook](https://basilsalbum.atabook.org/) 〉
 
-</p>
+</div>
 
 
