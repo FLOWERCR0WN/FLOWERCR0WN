@@ -18,11 +18,11 @@
 )
 
 
-<div align="left">
+<p align="text-align:left;">
    
 ![](https://github.com/FLOWERCR0WN/FLOWERCR0WN/blob/66ae07236eda726c0899d3138daf9114486a41a7/IMG_20250914_014759_(4096_x_1116_pixel).png) 
 
-</div>
+</p>
 </body> </html>
 
  
