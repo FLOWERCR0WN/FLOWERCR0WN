@@ -8,9 +8,7 @@
 
 <div align="center"
 〈 [strawpage](https://basilsalbum.straw.page/) 
-
-    <div align="center"
- ✧ [atabook](https://basilsalbum.atabook.org/) 〉>
+ ✧ [atabook]>(https://basilsalbum.atabook.org/) 〉
  
  
  
