@@ -2,7 +2,7 @@
     <body>
 
 ![](https://github.com/FLOWERCR0WN/FLOWERCR0WN/blob/4fb4c66d677d9c7218d1f8637bc7650b89e3012a/tumblr_9c5130471f460d5a28ef86cb7e00150e_6bdad453_1280.gif) 
-$<code style="color : darkorange">creds to @dollywons at Tumblr</code>$
+$<code style="color : darkorange">creds\ to\ @dollywons\ at\ Tumblr</code>$
 
 <div align="center">
     
