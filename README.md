@@ -6,7 +6,7 @@
 ![](https://github.com/FLOWERCR0WN/FLOWERCR0WN/blob/26281176fa76b8cb36f0db730283592520b31597/Untitled12_20260503011931.png)
 <div align="center">
 
-<sub><sup>$<code style="color : darkorange">teehee</code>$
+<sub><sup>$<code style="color : darkorange">Hi\ there\ :P</code>$
 </div>
 </sup></sub>
 <div align="center">
