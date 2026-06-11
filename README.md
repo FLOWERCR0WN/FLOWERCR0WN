@@ -3,7 +3,7 @@
 
 ![](https://github.com/FLOWERCR0WN/FLOWERCR0WN/blob/06310083e1fdfb0d64ec903d00d18d942d912116/Untitled15_20260503003711.png) 
 
-![](https://github.com/FLOWERCR0WN/FLOWERCR0WN/blob/26281176fa76b8cb36f0db730283592520b31597/Untitled12_20260503011931.png)
+![]
 <div align="center">
 
 <sub><sup>$<code style="color : darkorange">Hi\ there\ :P</code>$
